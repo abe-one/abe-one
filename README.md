@@ -10,7 +10,7 @@ Welcome to my public <!--Microsoft Github -->repositories. I'm a software develo
 
 ### Building
 
-... on the backend of this developer implementation https://a.humanrightsfirst.dev/
+... on the backend of this developer [implementation](https://a.humanrightsfirst.dev/)
 
 ### Learning
 
