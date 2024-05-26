@@ -6,7 +6,7 @@
 
 Welcome to my public <!--Microsoft Github -->repositories. I'm a software developer with a penchant for building, fixing, tinkering, and especially learning.
 
-## Now
+## Now - `Not currently committing outside of work due to contractual requirements`
 
 ### Building
 
